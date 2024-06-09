@@ -5,7 +5,9 @@ The endpoints are 2 simple node server with /hello and /data_request endpoints
 Steps to run 
 
 Step 1: Install the necessary packages 
+
 Step 2: Run the server.js file 
+
 Step 3: Run the client.js file
 
 That's all 
